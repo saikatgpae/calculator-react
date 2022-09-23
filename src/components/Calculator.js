@@ -1,5 +1,5 @@
 import React from 'react';
-import CalculatorButtons from './CalculatorButtons';
+import CalculatorButtons from './CalculatorButtons.js';
 import './style.css';
 import calculate from '../logic/calculate';
 
