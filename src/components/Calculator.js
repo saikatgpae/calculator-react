@@ -40,6 +40,7 @@ function Calculator() {
         <CalculatorButtons label="5" clName="white-background" change={objectChange} />
         <CalculatorButtons label="6" clName="white-background" change={objectChange} />
         <CalculatorButtons label="-" clName="orange-background" change={objectChange} />
+        <CalculatorButtons label="1" clName="white-background" change={objectChange} />
         <CalculatorButtons label="2" clName="white-background" change={objectChange} />
         <CalculatorButtons label="3" clName="white-background" change={objectChange} />
         <CalculatorButtons label="+" clName="orange-background" change={objectChange} />
