@@ -1,3 +1,23 @@
 .App {
   text-align: center;
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar {
+  width: 30%;
+  font-size: 2vw;
+}
+
+.calculator-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.calculator-display {
+  width: 70%;
+  zoom: 70%;
+}
