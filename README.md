@@ -17,7 +17,7 @@ Read a random math-related quote.
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://mathmagician-saikat.netlify.app/)
 
 
 ## Getting Started
