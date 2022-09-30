@@ -70,12 +70,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - GitHub: [@saikatgpae](https://github.com/saikatgpae)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/saikat-chakraborty-25b83a216/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
